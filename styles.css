@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+.hisdiv {
+    border: 1px outset whitesmoke;
+    background-color: dimgrey;
+    text-align: left;
+}
+.itsdiv {
+    border: 2px outset aliceblue;
+    background-color: dimgrey;
+    text-align: right;
+}
+.herdiv {
+    border: 3px outset aliceblue;
+    background-color: black;
+    text-align: right;
+}
